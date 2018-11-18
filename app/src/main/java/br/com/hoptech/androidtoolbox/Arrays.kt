@@ -18,3 +18,9 @@ fun arraysTests() {
         println("$index - $name")
     }
 }
+
+fun main(args: Array<String>) {
+
+    arraysTests()
+
+}
